@@ -26,3 +26,14 @@ The project is inspired by BigBasket and showcases features like authentication,
 1. Clone the repository:
    ```bash
    git clone https://github.com/prathmeshps/BigBasket-Clone-Freshmart-
+
+2. Open the backend folder in IntelliJ / Eclipse and run Spring Boot.
+
+3. Configure MySQL database (import schema).
+
+4. Navigate to frontend folder and start React:
+
+cd frontend
+npm install
+npm start
+  
