@@ -33,9 +33,9 @@ The project is inspired by BigBasket and showcases features like authentication,
 
 4. Navigate to frontend folder and start React:
 
-cd frontend
+   cd frontend
 
-npm install
+   npm install
 
-npm start
+   npm start
   
