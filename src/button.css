@@ -1,0 +1,21 @@
+.button-row {
+    display: flex;
+    gap: 20px; /* adds space between buttons */
+    margin-top: 10px;
+  }
+  
+  .button-row button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button-row button:hover {
+    background-color: #0056b3;
+  }
+  

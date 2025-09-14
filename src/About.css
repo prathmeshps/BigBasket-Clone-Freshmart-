@@ -1,0 +1,35 @@
+.about-container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    font-family: 'Segoe UI', sans-serif;
+    line-height: 1.6;
+  }
+  
+  .about-container h1 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .about-container h2 {
+    color: #27ae60;
+    margin-top: 30px;
+  }
+  
+  .about-container p {
+    color: #555;
+  }
+  
+  .about-container ul {
+    padding-left: 20px;
+    color: #444;
+  }
+  
+  .about-container li {
+    margin-bottom: 10px;
+  }
+  
